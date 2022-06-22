@@ -1,0 +1,3 @@
+[submodule "open-repos-blank"]
+	path = open-repos-blank
+	url = https://gitlab.com/zhangwenkal/open-repos-blank.git
